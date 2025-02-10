@@ -1,4 +1,4 @@
-# `@actions/artifact`
+ `@actions/artifact`
 
 Interact programmatically with [Actions Artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts).
 
